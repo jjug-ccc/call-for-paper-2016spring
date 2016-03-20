@@ -18,7 +18,7 @@
 
 <img width="299" alt="2016-03-20 22 10 18" src="https://cloud.githubusercontent.com/assets/106908/13904584/1b99397a-eee9-11e5-8262-52fda952bc3b.png">
 
-④ issueの左下に投票数が反映されます。
+④ issueの左下に投票数が反映されます。❤️など他のReactionをクリックしても構いませんが、投票数にはカウントしません。
 
 <img width="730" alt="2016-03-20 22 13 53" src="https://cloud.githubusercontent.com/assets/106908/13904585/1d85fa8e-eee9-11e5-8d99-847a24f58e8b.png">
 
