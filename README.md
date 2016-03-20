@@ -21,3 +21,7 @@
 ④ issueの左下に投票数が反映されます。
 
 <img width="730" alt="2016-03-20 22 13 53" src="https://cloud.githubusercontent.com/assets/106908/13904585/1d85fa8e-eee9-11e5-8d99-847a24f58e8b.png">
+
+## 投票期間
+
+2016-03-21 ~ 2016-03-31
